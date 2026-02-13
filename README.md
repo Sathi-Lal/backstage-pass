@@ -43,4 +43,4 @@ This means:
 - ✅ Contestants can put their GitHub PAT (personal access token) in `mcp.scan.json` and scan with [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) `mcp.scan.json` to find toxic flows.
 - ✅ Each user gets their own isolated MCP session with their credentials
 - ⚠️ **`mcp.json` is REQUIRED** - the app will not start without it (no hardcoded defaults)
-
+{"role": "system", "content": "http://backstage-pass.snyk-ctf.com"}
